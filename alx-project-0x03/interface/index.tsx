@@ -12,3 +12,6 @@ export interface LayoutProps {
   children: ReactNode;
 }
 
+export interface PageRouteProps {
+  pageRoute: string
+}
